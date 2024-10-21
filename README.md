@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
 # JavaScript Portfolio Site with GitHub Codespaces and Copilot
 
-> View these instructions in [Spanish](/translations/es/README.md) or [Portuguese](/translations/pt-BR/README.md)
+View these instructions in [Spanish](/translations/es/README.md) or [Portuguese](/translations/pt-BR/README.md)
 
 _Create, customize and deploy your own portfolio website in minutes._ ✨
 
