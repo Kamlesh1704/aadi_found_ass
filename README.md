@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
 # JavaScript Portfolio Site with GitHub Codespaces and Copilot
@@ -428,3 +429,6 @@ Explore how you can use Copilot to help you:
 
 ## 🔎 Found an issue or have an idea for improvement?
 Help us make this template repository better by [letting us know and opening an issue!](/../../issues/new).
+=======
+# aadi_found_ass
+>>>>>>> 3839c8314f420ee5b18cfafd6a97ddb90bc757f6
