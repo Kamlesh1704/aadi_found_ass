@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js/src/index",
+  "homepage": "https://github.com/aadi_found_ass/src/index",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/Kamlesh1704/aadi_found_ass.git"
   },
   "author": "Microsoft",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/Kamlesh1704/aadi_found_ass/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
