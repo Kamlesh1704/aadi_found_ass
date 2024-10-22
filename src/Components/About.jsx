@@ -41,7 +41,7 @@ const skillsList = [
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
- * about you on a professional level.
+ * about you on a professional level
  */
 const detailOrQuote =
   "As a Full Stack Developer, I thrive on tackling challenges with creative, forward-thinking solutions. also, I strive to create seamless, user-friendly experiences while making technology more intuitive and accessible. I am always exploring innovative methods to enhance both functionality and usability, ensuring that tech solutions are inclusive for all.";
