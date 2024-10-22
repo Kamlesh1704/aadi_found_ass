@@ -5754,7 +5754,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
 var _aboutBgJpgDefault = parcelHelpers.interopDefault(_aboutBgJpg);
 const imageAltText = "light blue about section background";
 /**
- * Sort description that expands on your title on the Home component.
+ * Sort description that expands on your title on the Home component
  */ const description = "I am a Full Stack Developer with three months of internship experience specializing in the MERN stack. I have successfully developed end-to-end website for an early-stage startup, leveraging my skills in both front-end and back-end development.";
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -5769,7 +5769,7 @@ const imageAltText = "light blue about section background";
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
- * about you on a professional level.
+ * about you on a professional level
  */ const detailOrQuote = "As a Full Stack Developer, I thrive on tackling challenges with creative, forward-thinking solutions. also, I strive to create seamless, user-friendly experiences while making technology more intuitive and accessible. I am always exploring innovative methods to enhance both functionality and usability, ensuring that tech solutions are inclusive for all.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
