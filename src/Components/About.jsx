@@ -21,7 +21,7 @@ import image from "../images/about-bg.jpg";
 const imageAltText = "light blue about section background";
 
 /**
- * Sort description that expands on your title on the Home component.
+ * Sort description that expands on your title on the Home component
  */
 const description =
   "I am a Full Stack Developer with three months of internship experience specializing in the MERN stack. I have successfully developed end-to-end website for an early-stage startup, leveraging my skills in both front-end and back-end development.";
