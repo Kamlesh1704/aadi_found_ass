@@ -34,6 +34,7 @@ const skillsList = [
   "Full stack web development",
   "User experience",
   "Responsive design",
+  "Data Structure & algorithm (DSA)",
   "Team work",
 ];
 
